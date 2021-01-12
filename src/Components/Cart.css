@@ -1,0 +1,20 @@
+
+.cart-post{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+    margin-bottom: 15px;
+    width: 80%;
+    margin-left: 40px;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.cart-title{
+    color:#007185;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}

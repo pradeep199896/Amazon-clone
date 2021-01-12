@@ -1,0 +1,18 @@
+footer{
+     background-color: #232F3E;
+     display: flex;
+     justify-content: space-around;
+     flex-direction: row;
+     color: white;
+     cursor: context-menu;
+}
+footer .footer1 li{
+    list-style: none;
+}
+ul {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+h3{
+    margin-bottom: 0px;
+}
